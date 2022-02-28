@@ -1,0 +1,79 @@
+<!-- Footer Section Begin -->
+    <footer class="footer-section">
+        <div class="container">
+            <div class="footer-text">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="ft-about">
+                            <div class="logo">
+                                <a href="#">
+                                    <img src="img/fw.png" alt="">
+                                </a>
+                            </div>
+                            <p>Since inception, it has been our goal to become one of 3 largest consulting firms in
+                                Egypt and the MENA region. <br /> We help our clients by providing tax advice, whether
+                                on local or international taxes. We meticulously help clients adhere to all tax laws at
+                                the lowest economic cost.
+                            </p>
+                            <div class="fa-social">
+                                <a href="https://www.facebook.com/fouadelwatanBKR/"><i style="color: white;"
+                                        class="fa fa-facebook"></i></a>
+                                <a href="https://www.linkedin.com/company/fouadelwatanbkr"><i style="color: white;"
+                                        class="fa fa-linkedin"></i></a>
+
+
+                                <!-- <a href="#"><i style="color: white;" class="fa fa-youtube-play"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1">
+                        <div class="ft-contact">
+                            <h6>Contact Us</h6>
+                            <ul>
+                                <li>Box: 11835</li>
+                                <li>01008888900</li>
+                                <li>contact@fouadelwatan.com</li>
+                                <li>fifth settlement ,villa 45 , nargs 3
+                                    New Cairo, Cairo, EG</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1">
+                        <div class="ft-newslatter">
+                            <h6>New latest</h6>
+                            <p>Get the latest updates and offers.</p>
+                            <form action="#" class="fn-form">
+                                <input type="text" placeholder="Email">
+                                <button type="submit"><i class="fa fa-send"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+
+    <!-- Search model Begin -->
+    <!-- <div class="search-model">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <div class="search-close-switch"><i class="icon_close"></i></div>
+            <form class="search-model-form">
+                <input type="text" id="search-input" placeholder="Search here.....">
+            </form>
+        </div>
+    </div> -->
+    <!-- Search model end -->
+
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

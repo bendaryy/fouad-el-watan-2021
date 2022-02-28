@@ -1,0 +1,62 @@
+.service-item h4 {
+  color: white;
+  padding-top: 15px;
+}
+
+.service-item p {
+  color: #aaa;
+}
+.ourServices {
+  margin: 30px 0 200px 0;
+}
+.card {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+}
+
+.card-header {
+  background-color: #222;
+  border: 1px solid white;
+}
+
+.card-header h2 {
+  text-align: center !important;
+}
+
+.card-header h2 button {
+  color: white;
+  text-align: center !important;
+}
+
+.card-header h2 button:hover {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.card-body {
+  background-color: #eee;
+  color: black;
+  background-color: #aaa;
+  overflow: hidden;
+}
+.card-body:hover {
+  background-color: #dfa974;
+  color: white;
+  font-weight: bold;
+  transition: 0.5s all;
+}
+.fa-plus {
+  float: right;
+  position: relative;
+  top: 4px;
+}

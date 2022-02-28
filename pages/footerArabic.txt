@@ -1,0 +1,79 @@
+ <!-- Footer Section Begin -->
+    <footer class="footer-section" style="direction: rtl;">
+        <div class="container">
+            <div class="footer-text">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="ft-about">
+                            <div class="logo" style="text-align: right;">
+                                <a href="#">
+                                    <img src="img/fw.png" alt="">
+                                </a>
+                            </div>
+                            <p style="text-align: right; font-size: 18px; font-weight: bold;">منذ البداية , لقد كان
+                                هدفنا أن نصبح واحدة من أكبر ثلاث شركات استشارية في مصر ومنطقة الشرق الأوسط وشمال إفريقيا
+                                . <br />نحن نساعد عملائنا من خلال تقديم المشورة الضريبية , سواء على الضرائب المحلية أو
+                                الدولية. نحن نساعد العملاء بدقة على الالتزام بجميع قوانين الضرائب بأقل تكلفة اقتصادية.
+                            </p>
+                            <div class="fa-social" style="text-align: right;">
+                                <a href="https://www.facebook.com/fouadelwatanBKR/"><i style="color: white;"
+                                        class="fa fa-facebook"></i></a>
+                                <a href="https://www.linkedin.com/company/fouadelwatanbkr"><i style="color: white;"
+                                        class="fa fa-linkedin"></i></a>
+
+
+                                <!-- <a href="#"><i style="color: white;" class="fa fa-youtube-play"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1">
+                        <div class="ft-contact">
+                            <p style="font-size: 25px;color: #DF9841;text-align: right;">الإتـــصــال بــنــا</p>
+                            <ul style="text-align: right;">
+                                <li>الرقـــم البــريدى : 11835</li>
+                                <li>0100888900</li>
+                                <li>contact@fouadelwatan.com</li>
+                                <li>التجــمع الخـــامس , فيلا 45 , النــرجــس 3 , القــاهرة الجديدة , القــاهرة</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1" style="text-align: right;">
+                        <div class="ft-newslatter">
+                            <p style="font-size: 25px;color: #DF9841;">اخر المستجدات</p>
+                            <p>احصل على اخر المستجدات و العروض</p>
+                            <form action="#" class="fn-form">
+                                <input type="text" placeholder="Email">
+                                <button type="submit"><i class="fa fa-send"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!-- Footer Section End -->
+
+    <!-- Search model Begin -->
+    <div class="search-model">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <div class="search-close-switch"><i class="icon_close"></i></div>
+            <form class="search-model-form">
+                <input type="text" id="search-input" placeholder="Search here.....">
+            </form>
+        </div>
+    </div>
+    <!-- Search model end -->
+
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
